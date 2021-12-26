@@ -1,0 +1,86 @@
+body
+{
+margin: 0;
+padding:0;
+font-family: sans-serif;
+background-image: url(https://i.pinimg.com/originals/2b/97/99/2b9799a28cf7c91ea62522f18a2f2437.jpg);
+background-size:cover;
+background-position: center;
+}
+
+  
+  
+.sign-up-form{
+    width: 300px;
+    outline: thick  black ;
+    box-shadow: 0 0 3px 0 rgba(26, 24, 24, 0.952);
+    background:transparent;
+    padding: 20px;;
+    margin: 8% auto 0;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 8px 8px 50px #000;
+    
+}
+.sign-up-form h1{
+    color:#1c8adb;
+    margin-bottom: 30px;
+}
+.input-box{
+    border-radius:20px;
+    padding:10px ;
+    margin: 10px 0;
+    width: 90%;
+    border: 1px solid #999;
+    outline: none;
+}
+button{
+    color:#ffff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline:none;
+    cursor:pointer;
+
+}
+.button-btn{
+    background-color: #1c8adb;
+    color: white;
+    width: 100%;
+    height: 40px;
+    font-size: 15px;
+    margin: 10px 0;
+     border:1pxsolid#eee;
+     border-radius:20px;
+     box-shadow:5px5px5px#eee;
+     text-shadow:none;
+
+}
+.twitter-btn{
+    color: white;
+    background-color: #21afde;
+}
+a{
+     
+     text-decoration:none;
+}
+.hr{
+
+    margin-top:25px;
+    width: 80%;
+}
+.or{
+     
+    width: 30px;
+    margin: -30px auto 10px;
+}
+img{
+    width:70px ;
+    margin-top: -90px; 
+}
+p{
+    color:white;
+}
